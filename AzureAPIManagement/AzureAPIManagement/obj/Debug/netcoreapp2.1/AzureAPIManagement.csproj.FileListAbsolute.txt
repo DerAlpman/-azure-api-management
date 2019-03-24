@@ -1,0 +1,14 @@
+D:\Workspace_CSHARP\_Spielwiese\Gitlab\azure-api-management\AzureAPIManagement\AzureAPIManagement\bin\Debug\netcoreapp2.1\AzureAPIManagement.deps.json
+D:\Workspace_CSHARP\_Spielwiese\Gitlab\azure-api-management\AzureAPIManagement\AzureAPIManagement\bin\Debug\netcoreapp2.1\AzureAPIManagement.runtimeconfig.json
+D:\Workspace_CSHARP\_Spielwiese\Gitlab\azure-api-management\AzureAPIManagement\AzureAPIManagement\bin\Debug\netcoreapp2.1\AzureAPIManagement.runtimeconfig.dev.json
+D:\Workspace_CSHARP\_Spielwiese\Gitlab\azure-api-management\AzureAPIManagement\AzureAPIManagement\bin\Debug\netcoreapp2.1\AzureAPIManagement.dll
+D:\Workspace_CSHARP\_Spielwiese\Gitlab\azure-api-management\AzureAPIManagement\AzureAPIManagement\obj\Debug\netcoreapp2.1\AzureAPIManagement.csprojAssemblyReference.cache
+D:\Workspace_CSHARP\_Spielwiese\Gitlab\azure-api-management\AzureAPIManagement\AzureAPIManagement\obj\Debug\netcoreapp2.1\AzureAPIManagement.csproj.CoreCompileInputs.cache
+D:\Workspace_CSHARP\_Spielwiese\Gitlab\azure-api-management\AzureAPIManagement\AzureAPIManagement\obj\Debug\netcoreapp2.1\AzureAPIManagement.RazorAssemblyInfo.cache
+D:\Workspace_CSHARP\_Spielwiese\Gitlab\azure-api-management\AzureAPIManagement\AzureAPIManagement\obj\Debug\netcoreapp2.1\AzureAPIManagement.RazorAssemblyInfo.cs
+D:\Workspace_CSHARP\_Spielwiese\Gitlab\azure-api-management\AzureAPIManagement\AzureAPIManagement\obj\Debug\netcoreapp2.1\AzureAPIManagement.AssemblyInfoInputs.cache
+D:\Workspace_CSHARP\_Spielwiese\Gitlab\azure-api-management\AzureAPIManagement\AzureAPIManagement\obj\Debug\netcoreapp2.1\AzureAPIManagement.AssemblyInfo.cs
+D:\Workspace_CSHARP\_Spielwiese\Gitlab\azure-api-management\AzureAPIManagement\AzureAPIManagement\obj\Debug\netcoreapp2.1\AzureAPIManagement.RazorTargetAssemblyInfo.cache
+D:\Workspace_CSHARP\_Spielwiese\Gitlab\azure-api-management\AzureAPIManagement\AzureAPIManagement\bin\Debug\netcoreapp2.1\AzureAPIManagement.pdb
+D:\Workspace_CSHARP\_Spielwiese\Gitlab\azure-api-management\AzureAPIManagement\AzureAPIManagement\obj\Debug\netcoreapp2.1\AzureAPIManagement.dll
+D:\Workspace_CSHARP\_Spielwiese\Gitlab\azure-api-management\AzureAPIManagement\AzureAPIManagement\obj\Debug\netcoreapp2.1\AzureAPIManagement.pdb
